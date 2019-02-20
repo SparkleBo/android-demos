@@ -1,1 +1,1 @@
-# There are some demo of android application
+# There are some demos of android application
